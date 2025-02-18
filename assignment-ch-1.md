@@ -140,7 +140,7 @@ These are the "Review Questions" for Chapter 1.
 ### Answer
 * a, b, c, d
     * Just go to the download section for both Fedora and Ubuntu, and you'll see options for at least choices (a, c, d).
-    * It's probably the same high level procedure for supercomputers, but then again not everyone has a supercomputer in their own backyard or at home.
+    * It's probably the same high level procedure for supercomputers -- however, not everyone has a supercomputer in their own backyard or at home.
 
 ## Question 10
 > Who formed the Free Software Foundation to promote open development?
