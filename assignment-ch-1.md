@@ -124,7 +124,7 @@ These are the "Review Questions" for Chapter 1.
 
 ### Answer
 * a, d
-    * You should recognizes these names if you've ever come across the [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language) book.
+    * You should recognizes these names if you've ever come across the one and only [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language) book.
 
 ## Question 9
 > On which types of systems can Linux be installed? (Choose all that apply.)
