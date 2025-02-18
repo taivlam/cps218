@@ -3,6 +3,7 @@ These are the "Review Questions" for Chapter 1.
 
 ## Question 1
 > Which of the following components comprise an operating system? (Choose all that apply.)
+> 
 > a.  user interface
 > b.  kernel
 > c.  device drivers
@@ -14,6 +15,7 @@ These are the "Review Questions" for Chapter 1.
 
 ## Question 2
 > Which of the following kernels are development kernels? (Choose all that apply.)
+> 
 > a. 2.3.4
 > b. 4.5.5
 > c. 5.10-rc5
@@ -26,6 +28,7 @@ These are the "Review Questions" for Chapter 1.
 
 ## Question 3
 > Many types of software are available today. Which type of software does Linux represent?
+> 
 > a. open source
 > b. closed source
 > c. freeware
@@ -38,6 +41,7 @@ These are the "Review Questions" for Chapter 1.
 
 ## Question 4
 > Which of the following are characteristics of OSS?  (Choose all that apply.)
+> 
 > a. The value of the software is directly related to its price.
 > b. The software is developed collaboratively.
 > c. The source code for software is available for a small fee.
@@ -52,6 +56,7 @@ These are the "Review Questions" for Chapter 1.
 
 ## Question 5
 > To which license does Linux adhere?
+> 
 > a. BSD
 > b. MIT
 > c. GNU GPL
@@ -63,6 +68,7 @@ These are the "Review Questions" for Chapter 1.
 
 ## Question 6
 > What are some good reasons for using Linux in a corporate environment? (Choose all that apply.)
+> 
 > a. Linux software is unlikely to be abandoned by its developers.
 > b. Linux is secure and has a lower total cost of ownership than other operating systems.
 > c. Linux is widely available for many hardware platforms and supports many programming languages.
@@ -74,6 +80,7 @@ These are the "Review Questions" for Chapter 1.
 
 ## Question 7
 > Which of the following are common methods for gaining support for Linux?
+> 
 > a. websites
 > b. Linux User Groups
 > c. online forums
@@ -83,3 +90,167 @@ These are the "Review Questions" for Chapter 1.
 * d
     * I don't know how I would feel getting support from the Arch Linux forum (but that's neither here nor there).
 
+## Question 8
+> Which two people are credited with creating the UNIX operating system? (Choose two answers.)
+> 
+> a. Dennis Ritchie
+> b. Richard Stallman
+> c. Linus Torvalds
+> d. Ken Thompson
+
+### Answer
+* a, d
+    * You should recognizes these names if you've ever come across the [*The C Programming Language*](https://en.wikipedia.org/wiki/The_C_Programming_Language) book.
+
+## Question 9
+> On which types of systems can Linux be installed? (Choose all that apply.)
+> 
+> a. IoT devices
+> b. supercomputers
+> c. servers
+> d. workstations
+
+### Answer
+* a, b, c, d
+    * Just go to the download section for both Fedora and Ubuntu, and you'll see options for at least choices (a, c, d).
+    * It's probably the same high level procedure for supercomputers, but then again not everyone has a supercomputer in their own backyard or at home.
+
+## Question 10
+> Who formed the Free Software Foundation to promote open development?
+> 
+> a. Dennis Ritchie
+> b. Richard Stallman
+> c. Linus Torvalds
+> d. Ken Thompson
+
+### Answer
+* b
+    * If you have been using Linux by self-learning via the internet and yet you haven't learned this yet, then I don't know what to say.
+
+## Question 11
+> Which culture embraced the term “GNU” (GNU’s Not UNIX) and laid the free software groundwork for Linux?
+> 
+> a. the hacker culture
+> b. the BSD culture
+> c. the cracker culture
+> d. the artificial intelligence culture
+
+### Answer
+* a
+    * This is straightforward and comes from reading the text.
+    * At least this textbook makes the correct distinction between hackers and crackers.
+
+## Question 12
+> Linux was developed by \_\_\_\_\ to resemble the \_\_\_\_\_ operating system.
+> 
+> a. Linus Torvalds, MINIX
+> b. Linus Torvalds, GNU
+> c. Richard Stallman, GNU
+> d. Richard Stallman, MINIX
+
+### Answer
+* a
+    * This is straightforward and comes from reading the text.
+    * Torvalds was the engineer, compared to Stallman.
+
+## Question 13
+> When the core components of the Linux operating system are packaged together with other OSS, it is called a \_\_\_\_\_.
+> 
+> a. new kernel
+> b. new platform
+> c. Linux distribution
+> d. GNU Project
+
+### Answer
+* c
+    * This is straightforward and comes from reading the text.
+
+## Question 14
+> Which common desktop environments are available in most Linux distributions? (Choose all that apply.)
+> 
+> a. GNOME
+> b. CDE
+> c. KDE
+> d. RPM
+
+### Answer
+* a, c
+    * This is straightforward, matching terms with what was mentioned in the text.
+    * Also, the [scene](https://youtu.be/FQM5fU7V-MM) when Tyrell talks about KDE and GNOME to Elliot in [*Mr. Robot*](https://en.wikipedia.org/wiki/Mr._Robot) is deeply ingrained in my psyche.
+
+## Question 15
+> Which of the following are factors that determine which Linux distribution a user will use? (Choose all that apply.)
+> 
+> a. package manager support
+> b. hardware platform
+> c. kernel features
+> d. language support
+
+### Answer
+* a, b, c
+    * Language support is somewhat not an issue (at least for common languages) -- at least there seems to be great language support when using GNOME as a desktop environment (or similar options).
+
+## Question 16
+> What is a common open source web server available for Linux?
+> 
+> a. Samba
+> b. Apache
+> c. Squid
+> d. NFS
+
+### Answer
+* b
+    * Only Apache and Ngninx are mentioned in the text.
+    * Also you might be familiar with both terms if you have watched Linux YouTube videos.
+
+## Question 17
+> Which of the following components is required to run Linux virtual machines?
+> 
+> a. container runtime
+> b. desktop environment
+> c. hypervisor
+> d. orchestration software
+
+### Answer
+* c
+    * You definitely have seen the word "hypervisor" if you spent more than 10 minutes reading the Qubes OS documentation.
+
+## Question 18
+> Which of the following Linux distributions is likely to be used by a cybersecurity worker?
+> 
+> a. Fedora
+> b. Ubuntu
+> c. Kali
+> d. Gentoo
+
+### Answer
+* c
+    * I watched all of *Mr. Robot*, which was using Linux technology in 2015.
+    * I think I need not elaborate any further.
+    * If it was in 2025 or later, I might've paused and looked for Parrot OS.
+        * Personally, I would consider running Parrot Home on bare metal as the host OS, and then use Kali Linux either as a VM or booting live from a USB device.
+
+## Question 19
+> When Linux is hosted within a container on a cloud provider, what cloud delivery model is being used?
+> 
+> a. IaaS
+> b. PaaS
+> c. XaaS
+> d. SaaS
+
+### Answer
+* b
+    * This one is straightforward, as this is also from reading the text or using context clues.
+    * IaaS would offer options allowing a self-administered but remotely hosted VPS setup that users discuss online.
+
+## Question 20
+> What component within a CD workflow creates a new virtual machine or container to host the web app?
+> 
+> a. orchestration server
+> b. testing server
+> c. code repository server
+> d. build automation server
+
+### Answer
+* d
+    * This is straightforward, as this is from reading the text.
