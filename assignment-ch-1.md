@@ -5,8 +5,11 @@ These are the "Review Questions" for Chapter 1.
 > Which of the following components comprise an operating system? (Choose all that apply.)
 > 
 > a.  user interface
+> 
 > b.  kernel
+> 
 > c.  device drivers
+> 
 > d.  services
 
 ### Answer
@@ -17,8 +20,11 @@ These are the "Review Questions" for Chapter 1.
 > Which of the following kernels are development kernels? (Choose all that apply.)
 > 
 > a. 2.3.4
+> 
 > b. 4.5.5
+> 
 > c. 5.10-rc5
+> 
 > d. 6.0.0
 
 ### Answer
@@ -30,8 +36,11 @@ These are the "Review Questions" for Chapter 1.
 > Many types of software are available today. Which type of software does Linux represent?
 > 
 > a. open source
+> 
 > b. closed source
+> 
 > c. freeware
+> 
 > d. shareware
 
 ### Answer
@@ -43,8 +52,11 @@ These are the "Review Questions" for Chapter 1.
 > Which of the following are characteristics of OSS?  (Choose all that apply.)
 > 
 > a. The value of the software is directly related to its price.
+> 
 > b. The software is developed collaboratively.
+> 
 > c. The source code for software is available for a small fee.
+> 
 > d. Bugs are fixed quickly.
 
 ### Answer
@@ -58,8 +70,11 @@ These are the "Review Questions" for Chapter 1.
 > To which license does Linux adhere?
 > 
 > a. BSD
+> 
 > b. MIT
+> 
 > c. GNU GPL
+> 
 > d. Apache
 
 ### Answer
@@ -70,8 +85,11 @@ These are the "Review Questions" for Chapter 1.
 > What are some good reasons for using Linux in a corporate environment? (Choose all that apply.)
 > 
 > a. Linux software is unlikely to be abandoned by its developers.
+> 
 > b. Linux is secure and has a lower total cost of ownership than other operating systems.
+> 
 > c. Linux is widely available for many hardware platforms and supports many programming languages.
+> 
 > d. Most Linux software is closed source.
 
 ### Answer
@@ -82,8 +100,11 @@ These are the "Review Questions" for Chapter 1.
 > Which of the following are common methods for gaining support for Linux?
 > 
 > a. websites
+> 
 > b. Linux User Groups
+> 
 > c. online forums
+> 
 > d. all these methods
 
 ### Answer
@@ -94,8 +115,11 @@ These are the "Review Questions" for Chapter 1.
 > Which two people are credited with creating the UNIX operating system? (Choose two answers.)
 > 
 > a. Dennis Ritchie
+> 
 > b. Richard Stallman
+> 
 > c. Linus Torvalds
+> 
 > d. Ken Thompson
 
 ### Answer
@@ -106,8 +130,11 @@ These are the "Review Questions" for Chapter 1.
 > On which types of systems can Linux be installed? (Choose all that apply.)
 > 
 > a. IoT devices
+> 
 > b. supercomputers
+> 
 > c. servers
+> 
 > d. workstations
 
 ### Answer
@@ -119,8 +146,11 @@ These are the "Review Questions" for Chapter 1.
 > Who formed the Free Software Foundation to promote open development?
 > 
 > a. Dennis Ritchie
+> 
 > b. Richard Stallman
+> 
 > c. Linus Torvalds
+> 
 > d. Ken Thompson
 
 ### Answer
@@ -131,8 +161,11 @@ These are the "Review Questions" for Chapter 1.
 > Which culture embraced the term “GNU” (GNU’s Not UNIX) and laid the free software groundwork for Linux?
 > 
 > a. the hacker culture
+> 
 > b. the BSD culture
+> 
 > c. the cracker culture
+> 
 > d. the artificial intelligence culture
 
 ### Answer
@@ -144,8 +177,11 @@ These are the "Review Questions" for Chapter 1.
 > Linux was developed by \_\_\_\_\ to resemble the \_\_\_\_\_ operating system.
 > 
 > a. Linus Torvalds, MINIX
+> 
 > b. Linus Torvalds, GNU
+> 
 > c. Richard Stallman, GNU
+> 
 > d. Richard Stallman, MINIX
 
 ### Answer
@@ -157,20 +193,27 @@ These are the "Review Questions" for Chapter 1.
 > When the core components of the Linux operating system are packaged together with other OSS, it is called a \_\_\_\_\_.
 > 
 > a. new kernel
+> 
 > b. new platform
+> 
 > c. Linux distribution
+> 
 > d. GNU Project
 
 ### Answer
 * c
     * This is straightforward and comes from reading the text.
+    * Also this comes from familiarity with Linux.
 
 ## Question 14
 > Which common desktop environments are available in most Linux distributions? (Choose all that apply.)
 > 
 > a. GNOME
+> 
 > b. CDE
+> 
 > c. KDE
+> 
 > d. RPM
 
 ### Answer
@@ -182,8 +225,11 @@ These are the "Review Questions" for Chapter 1.
 > Which of the following are factors that determine which Linux distribution a user will use? (Choose all that apply.)
 > 
 > a. package manager support
+> 
 > b. hardware platform
+> 
 > c. kernel features
+> 
 > d. language support
 
 ### Answer
@@ -194,8 +240,11 @@ These are the "Review Questions" for Chapter 1.
 > What is a common open source web server available for Linux?
 > 
 > a. Samba
+> 
 > b. Apache
+> 
 > c. Squid
+> 
 > d. NFS
 
 ### Answer
@@ -207,8 +256,11 @@ These are the "Review Questions" for Chapter 1.
 > Which of the following components is required to run Linux virtual machines?
 > 
 > a. container runtime
+> 
 > b. desktop environment
+> 
 > c. hypervisor
+> 
 > d. orchestration software
 
 ### Answer
@@ -219,8 +271,11 @@ These are the "Review Questions" for Chapter 1.
 > Which of the following Linux distributions is likely to be used by a cybersecurity worker?
 > 
 > a. Fedora
+> 
 > b. Ubuntu
+> 
 > c. Kali
+> 
 > d. Gentoo
 
 ### Answer
@@ -234,8 +289,11 @@ These are the "Review Questions" for Chapter 1.
 > When Linux is hosted within a container on a cloud provider, what cloud delivery model is being used?
 > 
 > a. IaaS
+> 
 > b. PaaS
+> 
 > c. XaaS
+> 
 > d. SaaS
 
 ### Answer
@@ -247,8 +305,11 @@ These are the "Review Questions" for Chapter 1.
 > What component within a CD workflow creates a new virtual machine or container to host the web app?
 > 
 > a. orchestration server
+> 
 > b. testing server
+> 
 > c. code repository server
+> 
 > d. build automation server
 
 ### Answer
