@@ -209,7 +209,7 @@ d. `/boot/efi`
 
 ### Answer
 * a, b, d
-    * Anyone who has manually created a swap file should know that you need to be more specific with the location of the swap file.
+    * Anyone who has manually created a swap file should know that the location of the swap file needs a more specific location than the choice given.
 
 ## Question 19
 If you boot your computer from Linux live media, you will be able to use a fully functional Linux system prior to installing Linux on permanent storage.
