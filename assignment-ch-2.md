@@ -97,7 +97,7 @@ d. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F7</kbd>
 ## Question 9
 To install Linux within a virtual machine, you can specify the path to an ISO image that contains the Linux installation media within virtualization software without having to first write the ISO image to a DVD or USB flash drive.
 
-a. True
+a. True<br>
 b. False
 
 ### Answer
@@ -107,9 +107,9 @@ b. False
 ## Question 10
 After you log in to a terminal, you receive a user interface called a \_\_\_\_\_.
 
-a. GUID
-b. shell
-c. text box
+a. GUID<br>
+b. shell<br>
+c. text box<br>
 d. command screen
 
 ### Answer
@@ -119,7 +119,7 @@ d. command screen
 ## Question 11
 Users enter commands directly to the kernel of the Linux operating system.
 
-a. True
+a. True<br>
 b. False
 
 ### Answer
