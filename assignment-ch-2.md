@@ -3,7 +3,7 @@ These are the "Review Questions" for Chapter 2.
 
 ## Question 1
 > What is the default shell on most Linux systems called?
->
+> 
 > a. SH<br>
 > b. BSH<br>
 > c. CSH<br>
@@ -15,11 +15,31 @@ These are the "Review Questions" for Chapter 2.
 
 ## Question 2
 > What equivalent to the man command generally provides an easier-to-read description of the queried command and contains links to other related information?
->
-> a. who<br>
-> b. man help<br>
-> c. man -descriptive<br>
-> d. info
+> 
+> a. `who`<br>
+> b. `man help`<br>
+> c. `man -descriptive`<br>
+> d. `info`
 
 ### Answer
 * d
+
+## Question 3
+> What command can you use to safely shut down the Linux system immediately?
+> 
+> a. `shutdown -c`<br>
+> b. `shutdown -r`<br>
+> c. `down`<br>
+> d. `halt`
+
+### Answer
+* d
+
+## Question ...
+> ...
+> 
+> ...
+
+### Answer
+* ...
+    * (Commentary, if needed)
