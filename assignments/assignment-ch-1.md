@@ -201,7 +201,7 @@ d. NFS
 
 ### Answer
 * b
-    * Only Apache and Ngninx are mentioned in the text.
+    * Only Apache and nginx are mentioned in the text.
     * Also you might be familiar with both terms if you have watched Linux YouTube videos.
 
 ## Question 17
@@ -228,7 +228,7 @@ d. Gentoo
 * c
     * I watched all of *Mr. Robot*, which was using Linux technology in 2015.
     * I think I need not elaborate any further.
-    * If it was in 2025 or later, I might've paused and looked for Parrot OS.
+    * If it was in 2025 or later, I might've paused and looked for [Parrot OS](https://en.wikipedia.org/wiki/Parrot_OS).
         * Personally, I would consider running Parrot Home on bare metal as the host OS, and then use Kali Linux either as a VM or booting live from a USB device.
 
 ## Question 19
