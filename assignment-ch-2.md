@@ -141,9 +141,9 @@ d. It cannot be done because metacharacters are essential.
 ## Question 13
 You know a Linux command will perform a desired function for you, but you cannot remember the full name of the command. You do remember it will flush a variable from your system. Which command typed at a command prompt displays a list of commands that would likely contain the command you desire?
 
-a. `man –k flush`
-b. `man –k find all`
-c. `man flush`
+a. `man –k flush`<br>
+b. `man –k find all`<br>
+c. `man flush`<br>
 d. `man –key flush`
 
 ### Answer
