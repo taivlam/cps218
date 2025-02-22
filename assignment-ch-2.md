@@ -104,7 +104,101 @@ b. False
 * a
     * Installing Linux via a VM is relatively much easier than installing on bare metal.
 
-## Question ...
+## Question 10
+After you log in to a terminal, you receive a user interface called a \_\_\_\_\_.
+
+a. GUID
+b. shell
+c. text box
+d. command screen
+
+### Answer
+* b
+    * This is true if you log into a TTY session.  If you use the TTY that the GUI is assigned to, then the GUI will launch if you have any display manager that shows a login screen.
+
+## Question 11
+Users enter commands directly to the kernel of the Linux operating system.
+
+a. True
+b. False
+
+### Answer
+* b
+    * Referring to the text, there are several critical and distinct levels before any command reaches the Linux kernel.
+
+## Question 12
+...
+
+...
+
+### Answer
+* ...
+    * (Commentary, if needed)
+
+## Question 13
+...
+
+...
+
+### Answer
+* ...
+    * (Commentary, if needed)
+
+## Question 14
+...
+
+...
+
+### Answer
+* ...
+    * (Commentary, if needed)
+
+## Question 15
+...
+
+...
+
+### Answer
+* ...
+    * (Commentary, if needed)
+
+## Question 16
+...
+
+...
+
+### Answer
+* ...
+    * (Commentary, if needed)
+
+## Question 17
+...
+
+...
+
+### Answer
+* ...
+    * (Commentary, if needed)
+
+## Question 18
+...
+
+...
+
+### Answer
+* ...
+    * (Commentary, if needed)
+
+## Question 19
+...
+
+...
+
+### Answer
+* ...
+    * (Commentary, if needed)
+
+## Question 20
 ...
 
 ...
