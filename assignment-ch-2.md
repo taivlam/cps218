@@ -50,9 +50,9 @@ These are the "Review Questions" for Chapter 2.
 ## Question 5
 > Which of the following is *not* a piece of information that the Fedora installation program prompts you for?
 >
-> a. time zone
-> b. installation destination
-> c. firewall settings
+> a. time zone<br>
+> b. installation destination<br>
+> c. firewall settings<br>
 > d. installation language
 
 ### Answer
@@ -62,7 +62,7 @@ These are the "Review Questions" for Chapter 2.
 ## Question 6
 > Linux commands entered via the command line are not case sensitive.
 >
-> a. True
+> a. True<br>
 > b. False
 
 ### Answer
@@ -72,9 +72,9 @@ These are the "Review Questions" for Chapter 2.
 ## Question 7
 > Which command blanks the terminal screen, erasing previously displayed output?
 >
-> a. `erase`
-> b. `clean`
-> c. `blank`
+> a. `erase`<br>
+> b. `clean`<br>
+> c. `blank`<br>
 > d. `clear`
 
 ### Answer
@@ -84,9 +84,9 @@ These are the "Review Questions" for Chapter 2.
 ## Question 8
 > When sitting at a computer running Linux, what key combination do you press to switch to a graphical login screen?
 >
-> a. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F1</kdb>
-> b. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F4</kdb>
-> c. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F2</kdb>
+> a. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F1</kdb><br>
+> b. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F4</kdb><br>
+> c. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F2</kdb><br>
 > d. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F7</kdb>
 
 ### Answer
