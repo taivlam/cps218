@@ -188,37 +188,49 @@ d. `!`
     * This is straightforward to reference the text for this question, if you didn't have experience using Linux.
 
 ## Question 17
-...
+Which of the following refers to the third primary partition on the second SAS hard disk drive within Linux?
 
-...
+a. `hdb2`<br>
+b. `sda3`<br>
+c. `hdb3`<br>
+d. `sdb3`
 
 ### Answer
-* ...
-    * (Commentary, if needed)
+* d
+    * This combines a lot of attributes reference in the text, but it should be doable after laying out all the info for visual inspection.
 
 ## Question 18
-...
+Which three partitions are typically created at minimum during a Fedora Workstation Linux installation on a system with a UEFI BIOS? (Choose three answers.)
 
-...
+a. `/`<br>
+b. `/boot`<br>
+c. `swap`<br>
+d. `/boot/efi`
 
 ### Answer
-* ...
-    * (Commentary, if needed)
+* a, b, d
+    * Anyone who has manually created a swap file should know that you need to be more specific with the location of the swap file.
 
 ## Question 19
-...
+If you boot your computer from Linux live media, you will be able to use a fully functional Linux system prior to installing Linux on permanent storage.
 
-...
+a. True<br>
+b. False
 
 ### Answer
-* ...
-    * (Commentary, if needed)
+* b
+    * This false by default for most live versions of Linux distros, as the OS is loaded into memory and there is no persistent storage.
+    * The closest that comes to this is [Tails](https://en.wikipedia.org/wiki/Tails_(operating_system)), but then again this isn't by default and you first need to set up an administrative password before enabling persistent storage.
+    * Also the print version of the textbook as a typo and forgot to put the choices of true/false below this question.
 
 ## Question 20
-...
+Which of the following is not an example of virtualization software that can be used to install Linux within another operating system?
 
-...
+a. Oracle VirtualBox<br>
+b. Microsoft Hyper-V<br>
+c. Spiceworks<br>
+d. UTM
 
 ### Answer
-* ...
-    * (Commentary, if needed)
+* c
+    * This is straightforward if reading the text, as Spiceworks wasn't mentioned in Chapter 2 (at least in the context of running VMs).
