@@ -46,3 +46,26 @@ These are the "Review Questions" for Chapter 2.
 
 ### Answer
 * c
+
+## Question 5
+> Which of the following is *not* a piece of information that the Fedora installation program prompts you for?
+>
+> a. time zone
+> b. installation destination
+> c. firewall settings
+> d. installation language
+
+### Answer
+* c
+    * You should set up a firewall shortly after installing a Linux distribution, if this Linux system will be installed on bare metal.
+
+## Question 6
+> Linux commands entered via the command line are not case sensitive.
+>
+> a. True
+> b. False
+
+### Answer
+* b
+    * This differs from Windows Command Prompt, where commands are not case sensitive.
+ 
