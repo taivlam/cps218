@@ -141,7 +141,7 @@ d. the artificial intelligence culture
     * At least this textbook makes the correct distinction between hackers and crackers.
 
 ## Question 12
-Linux was developed by \_\_\_\_\ to resemble the \_\_\_\_\_ operating system.
+Linux was developed by \_\_\_\_\_ to resemble the \_\_\_\_\_ operating system.
 
 a. Linus Torvalds, MINIX<br>
 b. Linus Torvalds, GNU<br>
