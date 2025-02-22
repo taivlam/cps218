@@ -14,7 +14,7 @@ These are the "Review Questions" for Chapter 2.
     * There are other shells (such as [Fish](https://en.wikipedia.org/wiki/Fish_(Unix_shell)) and [Z shell](https://en.wikipedia.org/wiki/Z_shell)), but they aren't mentioned in the text.
 
 ## Question 2
-> What equivalent to the man command generally provides an easier-to-read description of the queried command and contains links to other related information?
+> What equivalent to the `man` command generally provides an easier-to-read description of the queried command and contains links to other related information?
 > 
 > a. `who`<br>
 > b. `man help`<br>
@@ -34,12 +34,15 @@ These are the "Review Questions" for Chapter 2.
 
 ### Answer
 * d
+    * If enabled on your Linux distro, then you might be able to use the equivalent `$ poweroff` command, which is also mentioned in the text.
 
-## Question ...
-> ...
+## Question 4
+> What command is equivalent to the `man –k <keyword>` command?
 > 
-> ...
+> a. `find <keyword>`<br>
+> b. `man <keyword>`<br>
+> c. `apropos <keyword>`<br>
+> d. `appaloosa <keyword>`
 
 ### Answer
-* ...
-    * (Commentary, if needed)
+* c
