@@ -79,7 +79,7 @@ d. `clear`
 
 ### Answer
 * d
-    * This is a helpful command, if you are in a bare TTY environment without tmux.
+    * This is a helpful command, if you are in a bare TTY environment without [tmux](https://en.wikipedia.org/wiki/Tmux).
 
 ## Question 8
 When sitting at a computer running Linux, what key combination do you press to switch to a graphical login screen?
@@ -161,7 +161,7 @@ d. `date`
 
 ### Answer
 * b
-    * This is also straighforward to reference the text for this question.
+    * This is also straightforward to reference the text for this question.
 
 ## Question 15
 Which prompt does the root user receive when logged in to the system?
