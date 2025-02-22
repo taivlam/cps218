@@ -136,7 +136,7 @@ d. It cannot be done because metacharacters are essential.
 
 ### Answer
 * b
-    * This can come in handy when you download YouTube videos via `yt-dlp` and the titles use nonstandard UTF characters and wish to play the video via the CLI with [mpv](https://en.wikipedia.org/wiki/Mpv_(media_player)).
+    * This can come in handy when you download YouTube videos via `yt-dlp` and the titles use non-standard UTF characters (at least to a standard keyboard in a terminal emulator session) and wish to play the download video afterward in the CLI with [mpv](https://en.wikipedia.org/wiki/Mpv_(media_player)).
 
 ## Question 13
 ...
