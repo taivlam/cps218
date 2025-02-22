@@ -164,22 +164,28 @@ d. `date`
     * This is also straighforward to reference the text for this question.
 
 ## Question 15
-...
+Which prompt does the root user receive when logged in to the system?
 
-...
+a. `$`<br>
+b. `@`<br>
+c. `#`<br>
+d. `!`
 
 ### Answer
-* ...
-    * (Commentary, if needed)
+* c
+    * During daily usage of a personal Linux distribution that is working well, you probably won't be seeing this very often.
 
 ## Question 16
-...
+Which prompt do regular users receive when logged in to the system?
 
-...
+a. `$`<br>
+b. `@`<br>
+c. `#`<br>
+d. `!`
 
 ### Answer
-* ...
-    * (Commentary, if needed)
+* a
+    * This is straightforward to reference the text for this question, if you didn't have experience using Linux.
 
 ## Question 17
 ...
