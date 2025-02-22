@@ -93,7 +93,17 @@ d. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F7</kbd>
 * a
     * Actually the command I use on Manjaro is <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F7</kbd>.
     * For Linux distros with GUIs yet you don't already know which TTY that the GUI is assigned to, try the function keys <kbd>F1</kbd>-<kbd>F12</kbd> in ascending order.
- 
+
+## Question 9
+To install Linux within a virtual machine, you can specify the path to an ISO image that contains the Linux installation media within virtualization software without having to first write the ISO image to a DVD or USB flash drive.
+
+a. True
+b. False
+
+### Answer
+* a
+    * Installing Linux via a VM is relatively much easier than installing on bare metal.
+
 ## Question ...
 ...
 
@@ -102,4 +112,3 @@ d. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F7</kbd>
 ### Answer
 * ...
     * (Commentary, if needed)
- 
