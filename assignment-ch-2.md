@@ -84,14 +84,14 @@ d. `clear`
 ## Question 8
 When sitting at a computer running Linux, what key combination do you press to switch to a graphical login screen?
 
-a. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F1</kdb><br>
-b. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F4</kdb><br>
-c. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F2</kdb><br>
-d. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F7</kdb>
+a. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F1</kbd><br>
+b. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F4</kbd><br>
+c. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F2</kbd><br>
+d. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F7</kbd>
 
 ### Answer
 * a
-    * Actually the command I use on Manjaro is <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F7</kdb>.
+    * Actually the command I use on Manjaro is <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F7</kbd>.
  
 ## Question ...
 ...
