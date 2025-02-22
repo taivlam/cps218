@@ -92,6 +92,7 @@ d. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F7</kbd>
 ### Answer
 * a
     * Actually the command I use on Manjaro is <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F7</kbd>.
+    * For Linux distros with GUIs yet you don't already know which TTY that the GUI is assigned to, try the function keys <kbd>F1</kbd>-<kbd>F12</kbd> in ascending order.
  
 ## Question ...
 ...
