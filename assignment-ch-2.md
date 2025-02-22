@@ -127,13 +127,16 @@ b. False
     * Referring to the text, there are several critical and distinct levels before any command reaches the Linux kernel.
 
 ## Question 12
-...
+How can you protect a metacharacter (such as the `$` character) from shell interpretation?
 
-...
+a. Precede it with a `/`.<br>
+b. Precede it with a `\`.<br>
+c. Precede it with a `$`.<br>
+d. It cannot be done because metacharacters are essential.
 
 ### Answer
-* ...
-    * (Commentary, if needed)
+* b
+    * This can come in handy when you download YouTube videos via `yt-dlp` and the titles use nonstandard UTF characters and wish to play the video via the CLI with [mpv](https://en.wikipedia.org/wiki/Mpv_(media_player)).
 
 ## Question 13
 ...
