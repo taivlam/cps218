@@ -68,4 +68,25 @@ These are the "Review Questions" for Chapter 2.
 ### Answer
 * b
     * This differs from Windows Command Prompt, where commands are not case sensitive.
+
+## Question 7
+> Which command blanks the terminal screen, erasing previously displayed output?
+>
+> a. `erase`
+> b. `clean`
+> c. `blank`
+> d. `clear`
+
+### Answer
+* d
+    * This is a helpful command, if you are in a bare TTY environment without tmux.
+
+## Question ...
+> ...
+>
+> ...
+
+### Answer
+* ...
+    * (Commentary, if needed)
  
