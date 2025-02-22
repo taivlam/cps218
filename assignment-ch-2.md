@@ -2,101 +2,101 @@
 These are the "Review Questions" for Chapter 2.
 
 ## Question 1
-> What is the default shell on most Linux systems called?
-> 
-> a. SH<br>
-> b. BSH<br>
-> c. CSH<br>
-> d. BASH
+What is the default shell on most Linux systems called?
+
+a. SH<br>
+b. BSH<br>
+c. CSH<br>
+d. BASH
 
 ### Answer
 * d
     * There are other shells (such as [Fish](https://en.wikipedia.org/wiki/Fish_(Unix_shell)) and [Z shell](https://en.wikipedia.org/wiki/Z_shell)), but they aren't mentioned in the text.
 
 ## Question 2
-> What equivalent to the `man` command generally provides an easier-to-read description of the queried command and contains links to other related information?
-> 
-> a. `who`<br>
-> b. `man help`<br>
-> c. `man -descriptive`<br>
-> d. `info`
+What equivalent to the `man` command generally provides an easier-to-read description of the queried command and contains links to other related information?
+
+a. `who`<br>
+b. `man help`<br>
+c. `man -descriptive`<br>
+d. `info`
 
 ### Answer
 * d
 
 ## Question 3
-> What command can you use to safely shut down the Linux system immediately?
-> 
-> a. `shutdown -c`<br>
-> b. `shutdown -r`<br>
-> c. `down`<br>
-> d. `halt`
+What command can you use to safely shut down the Linux system immediately?
+
+a. `shutdown -c`<br>
+b. `shutdown -r`<br>
+c. `down`<br>
+d. `halt`
 
 ### Answer
 * d
     * If enabled on your Linux distro, then you might be able to use the equivalent `$ poweroff` command, which is also mentioned in the text.
 
 ## Question 4
-> What command is equivalent to the `man –k <keyword>` command?
-> 
-> a. `find <keyword>`<br>
-> b. `man <keyword>`<br>
-> c. `apropos <keyword>`<br>
-> d. `appaloosa <keyword>`
+What command is equivalent to the `man –k <keyword>` command?
+
+a. `find <keyword>`<br>
+b. `man <keyword>`<br>
+c. `apropos <keyword>`<br>
+d. `appaloosa <keyword>`
 
 ### Answer
 * c
 
 ## Question 5
-> Which of the following is *not* a piece of information that the Fedora installation program prompts you for?
+Which of the following is *not* a piece of information that the Fedora installation program prompts you for?
 >
-> a. time zone<br>
-> b. installation destination<br>
-> c. firewall settings<br>
-> d. installation language
+a. time zone<br>
+b. installation destination<br>
+c. firewall settings<br>
+d. installation language
 
 ### Answer
 * c
     * You should set up a firewall shortly after installing a Linux distribution, if this Linux system will be installed on bare metal.
 
 ## Question 6
-> Linux commands entered via the command line are not case sensitive.
->
-> a. True<br>
-> b. False
+Linux commands entered via the command line are not case sensitive.
+
+a. True<br>
+b. False
 
 ### Answer
 * b
     * This differs from Windows Command Prompt, where commands are not case sensitive.
 
 ## Question 7
-> Which command blanks the terminal screen, erasing previously displayed output?
->
-> a. `erase`<br>
-> b. `clean`<br>
-> c. `blank`<br>
-> d. `clear`
+Which command blanks the terminal screen, erasing previously displayed output?
+
+a. `erase`<br>
+b. `clean`<br>
+c. `blank`<br>
+d. `clear`
 
 ### Answer
 * d
     * This is a helpful command, if you are in a bare TTY environment without tmux.
 
 ## Question 8
-> When sitting at a computer running Linux, what key combination do you press to switch to a graphical login screen?
->
-> a. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F1</kdb><br>
-> b. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F4</kdb><br>
-> c. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F2</kdb><br>
-> d. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F7</kdb>
+When sitting at a computer running Linux, what key combination do you press to switch to a graphical login screen?
+
+a. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F1</kdb><br>
+b. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F4</kdb><br>
+c. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F2</kdb><br>
+d. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F7</kdb>
 
 ### Answer
 * a
     * Actually the command I use on Manjaro is <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F7</kdb>.
  
 ## Question ...
-> ...
->
-> ...
+...
+
+...
 
 ### Answer
 * ...
