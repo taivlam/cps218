@@ -148,16 +148,20 @@ d. `man –key flush`
 
 ### Answer
 * a
+    * It is straightforward to reference the text for this question.
     * Ironically, I can't get this command to work on Manjaro.
 
 ## Question 14
-...
+Which command displays the users who are currently logged in to the Linux system?
 
-...
+a. `finger`<br>
+b. `who`<br>
+c. `id`<br>
+d. `date`
 
 ### Answer
-* ...
-    * (Commentary, if needed)
+* b
+    * This is also straighforward to reference the text for this question.
 
 ## Question 15
 ...
