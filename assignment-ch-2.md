@@ -81,6 +81,18 @@ These are the "Review Questions" for Chapter 2.
 * d
     * This is a helpful command, if you are in a bare TTY environment without tmux.
 
+## Question 8
+> When sitting at a computer running Linux, what key combination do you press to switch to a graphical login screen?
+>
+> a. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F1</kdb>
+> b. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F4</kdb>
+> c. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F2</kdb>
+> d. <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F7</kdb>
+
+### Answer
+* a
+    * Actually the command I use on Manjaro is <kdb>Ctrl</kdb>+<kdb>Alt</kdb>+<kdb>F7</kdb>.
+ 
 ## Question ...
 > ...
 >
