@@ -11,7 +11,7 @@ These are the "Review Questions" for Chapter 2.
 
 ### Answer
 * d
-    * There are other shells (such as [Fish](https://en.wikipedia.org/wiki/Fish_(Unix_shell)) and [Z shell](https://en.wikipedia.org/wiki/Z_shell)), but they weren't discussed in the text.
+    * There are other shells (such as [Fish](https://en.wikipedia.org/wiki/Fish_(Unix_shell)) and [Z shell](https://en.wikipedia.org/wiki/Z_shell)), but they aren't mentioned in the text.
 
 ## Question ...
 > ...
