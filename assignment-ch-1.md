@@ -1,5 +1,5 @@
 # CPS 218 Chapter 1 Assignment
-These are the "Review Questions" for Chapter 1.
+These are the Review Questions for Chapter 1.
 
 ## Question 1
 Which of the following components comprise an operating system? (Choose all that apply.)
