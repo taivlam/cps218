@@ -139,13 +139,16 @@ d. It cannot be done because metacharacters are essential.
     * This can come in handy when you download YouTube videos via `yt-dlp` and the titles use non-standard UTF characters (at least to a standard keyboard in a terminal emulator session) and wish to play the download video afterward in the CLI with [mpv](https://en.wikipedia.org/wiki/Mpv_(media_player)).
 
 ## Question 13
-...
+You know a Linux command will perform a desired function for you, but you cannot remember the full name of the command. You do remember it will flush a variable from your system. Which command typed at a command prompt displays a list of commands that would likely contain the command you desire?
 
-...
+a. `man –k flush`
+b. `man –k find all`
+c. `man flush`
+d. `man –key flush`
 
 ### Answer
-* ...
-    * (Commentary, if needed)
+* a
+    * Ironically, I can't get this command to work on Manjaro.
 
 ## Question 14
 ...
