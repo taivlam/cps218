@@ -15,10 +15,10 @@ b.  False
 Which command would a user type on the command line to find out the current
 directory in the directory tree?
 
-a. `pd`<br>
-b. `cd`<br>
-c. `where`<br>
-d. `pwd`
+a.  `pd`<br>
+b.  `cd`<br>
+c.  `where`<br>
+d.  `pwd`
 
 ### Answer
 * ...
@@ -27,10 +27,10 @@ d. `pwd`
 ## Question 3
 Which of the following is an absolute pathname?  (Choose all that apply.)
 
-a. `C:\myfolder\resume`<br>
-b. `resume`<br>
-c. `/home/resume`<br>
-d. `C:home/resume`
+a.  `C:\myfolder\resume`<br>
+b.  `resume`<br>
+c.  `/home/resume`<br>
+d.  `C:home/resume`
 
 ### Answer
 * ...
@@ -39,10 +39,10 @@ d. `C:home/resume`
 ## Question 4
 A special device file is used to \_\_\_\_\_.
 
-a. enable proprietary custom-built devices to work with Linux<br>
-b. represent hardware devices<br>
-c. keep a list of device settings specific to each individual user<br>
-d. do nothing in Linux
+a.  enable proprietary custom-built devices to work with Linux<br>
+b.  represent hardware devices<br>
+c.  keep a list of device settings specific to each individual user<br>
+d.  do nothing in Linux
 
 ### Answer
 * ...
@@ -52,46 +52,58 @@ d. do nothing in Linux
 If a user’s current directory is `/home/mary/project1`, which command could they
 use to move to the `etc` directory directly under the root?
 
-a. `cd ..`<br>
-b. `cd etc`<br>
-c. `cd /etc`<br>
-d. `cd \etc`
+a.  `cd ..`<br>
+b.  `cd etc`<br>
+c.  `cd /etc`<br>
+d.  `cd \etc`
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 6
-...
+After typing the `ls –a` command, you notice a file whose filename begins with a
+period (`.`). What does this mean?
 
-...<br>
+a.  It is a binary file.<br>
+b.  It is a system file.<br>
+c.  It is a file in the current directory.<br>
+d.  It is a hidden file.
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 7
-...
+After typing the `ls –F` command, you notice a filename that ends with an `*` (asterisk) character. What does this mean?
 
-...<br>
+a.  It is a hidden file.<br>
+b.  It is a linked file.<br>
+c.  It is a special device file.<br>
+d.  It is an executable file.
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 8
-...
+The vi editor can function in which two of the following modes? (Choose both
+that apply.)
 
-...<br>
+a.  Command<br>
+b.  Input<br>
+c.  Interactive<br>
+d.  Insert
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 9
-...
+The `less` command offers less functionality than the `more` command.
 
-...<br>
+a.  True<br>
+b.  False
 
 ### Answer
 * ...
