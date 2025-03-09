@@ -37,9 +37,12 @@ d. `C:home/resume`
     * (Commentary, if needed)
 
 ## Question 4
-...
+A special device file is used to \_\_\_\_\_.
 
-...<br>
+a. enable proprietary custom-built devices to work with Linux<br>
+b. represent hardware devices<br>
+c. keep a list of device settings specific to each individual user<br>
+d. do nothing in Linux
 
 ### Answer
 * ...
