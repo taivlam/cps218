@@ -148,9 +148,12 @@ d.  `\home\resume`
     * (Commentary, if needed)
 
 ## Question 13
-...
+What will the following wildcard expression return: `file[a-c]`?
 
-...<br>
+a.  `filea-c`<br>
+b.  `filea`, `filec`<br>
+c.  `filea`, `fileb`, `filec`<br>
+d.  `fileabc`
 
 ### Answer
 * ...
