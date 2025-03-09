@@ -2,18 +2,22 @@
 These are the Review Questions for Chapter 3.
 
 ## Question 1
-...
+A directory is a type of file.
 
-...<br>
+a.  True<br>
+b.  False
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 2
-...
+Which command would a user type on the command line to find out the current directory in the directory tree?
 
-...<br>
+a. `pd`<br>
+b. `cd`<br>
+c. `where`<br>
+d. `pwd`
 
 ### Answer
 * ...
