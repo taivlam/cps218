@@ -240,7 +240,7 @@ How could that user navigate to the `/home/jim` directory?
 a.  `cd ..`<br>
 b.  `cd /jim`<br>
 c.  `cd ../..`<br>
-d.  `cd ./.
+d.  `cd ./.`
 
 ### Answer
 * ...
