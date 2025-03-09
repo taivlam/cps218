@@ -160,63 +160,87 @@ d.  `fileabc`
     * (Commentary, if needed)
 
 ## Question 14
-...
+What will typing `q!` at the `:` prompt in command mode do when using the vi
+editor?
 
-...<br>
+a. Quit as no changes were made.<br>
+b. Quit after saving any changes.<br>
+c. Nothing because the `!` is a metacharacter.<br>
+d. Quit without saving any changes.
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 15
-...
+A user types the command `head /poems/mary`. What will be displayed on the
+terminal screen?
 
-...<br>
+a.  The first line of the file `mary`<br>
+b.  The first 10 lines of the file `mary`<br>
+c.  The header for the file `mary`<br>
+d.  The first 20 lines of the file `mary`
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 16
-...
+The `tac` command \_\_\_\_\_.
 
-...<br>
+a.  displays the contents of a file<br>
+b.  displays the contents of hidden files<br>
+c.  displays the contents of a file in reverse order, last word on the line first and first word on the line last<br>
+d.  is not a valid Linux command
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 17
-...
+How can you specify a text pattern that must be at the beginning of a line of
+text using a regular expression?
 
-...<br>
+a.  Precede the string with a `/`.<br>
+b.  Follow the string with a `\`.<br>
+c.  Precede the string with a `$`.<br>
+d.  Precede the string with a `^`.
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 18
-...
+Linux has only one root directory per directory tree.
 
-...<br>
+a.  True<br>
+b.  False
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 19
-...
+Using a regular expression, how can you indicate a character that is *not* an
+`a` or `b` or `c` or `d`?
 
-...<br>
+a. `[^abcd]`<br>
+b. `not [a-d]`<br>
+c. `[!a-d]`<br>
+d. `!a-d`
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 20
-...
+A user typed the command `pwd` and saw the output: `/home/jim/sales/pending`.
+How could that user navigate to the `/home/jim` directory?
 
-...<br>
+a.  `cd ..`<br>
+b.  `cd /jim`<br>
+c.  `cd ../..`<br>
+d.  `cd ./.
 
 ### Answer
 * ...
