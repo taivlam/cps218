@@ -16,10 +16,10 @@ d.  services
 ## Question 2
 Which of the following kernels are development kernels? (Choose all that apply.)
 
-a. 2.3.4<br>
-b. 4.5.5<br>
-c. 5.10-rc5<br>
-d. 6.0.0
+a.  2.3.4<br>
+b.  4.5.5<br>
+c.  5.10-rc5<br>
+d.  6.0.0
 
 ### Answer
 * a, c
@@ -29,10 +29,10 @@ d. 6.0.0
 ## Question 3
 Many types of software are available today. Which type of software does Linux represent?
 
-a. open source<br>
-b. closed source<br>
-c. freeware<br>
-d. shareware
+a.  open source<br>
+b.  closed source<br>
+c.  freeware<br>
+d.  shareware
 
 ### Answer
 * a
@@ -42,10 +42,10 @@ d. shareware
 ## Question 4
 Which of the following are characteristics of OSS?  (Choose all that apply.)
 
-a. The value of the software is directly related to its price.<br>
-b. The software is developed collaboratively.<br>
-c. The source code for software is available for a small fee.<br>
-d. Bugs are fixed quickly.
+a.  The value of the software is directly related to its price.<br>
+b.  The software is developed collaboratively.<br>
+c.  The source code for software is available for a small fee.<br>
+d.  Bugs are fixed quickly.
 
 ### Answer
 * b, d
@@ -57,10 +57,10 @@ d. Bugs are fixed quickly.
 ## Question 5
 To which license does Linux adhere?
 
-a. BSD<br>
-b. MIT<br>
-c. GNU GPL<br>
-d. Apache
+a.  BSD<br>
+b.  MIT<br>
+c.  GNU GPL<br>
+d.  Apache
 
 ### Answer
 * c
@@ -69,10 +69,10 @@ d. Apache
 ## Question 6
 What are some good reasons for using Linux in a corporate environment? (Choose all that apply.)
 
-a. Linux software is unlikely to be abandoned by its developers.<br>
-b. Linux is secure and has a lower total cost of ownership than other operating systems.<br>
-c. Linux is widely available for many hardware platforms and supports many programming languages.<br>
-d. Most Linux software is closed source.
+a.  Linux software is unlikely to be abandoned by its developers.<br>
+b.  Linux is secure and has a lower total cost of ownership than other operating systems.<br>
+c.  Linux is widely available for many hardware platforms and supports many programming languages.<br>
+d.  Most Linux software is closed source.
 
 ### Answer
 * a, b, c
@@ -81,10 +81,10 @@ d. Most Linux software is closed source.
 ## Question 7
 Which of the following are common methods for gaining support for Linux?
 
-a. websites<br>
-b. Linux User Groups<br>
-c. online forums<br>
-d. all these methods
+a.  websites<br>
+b.  Linux User Groups<br>
+c.  online forums<br>
+d.  all these methods
 
 ### Answer
 * d
@@ -93,10 +93,10 @@ d. all these methods
 ## Question 8
 Which two people are credited with creating the UNIX operating system? (Choose two answers.)
 
-a. Dennis Ritchie<br>
-b. Richard Stallman<br>
-c. Linus Torvalds<br>
-d. Ken Thompson
+a.  Dennis Ritchie<br>
+b.  Richard Stallman<br>
+c.  Linus Torvalds<br>
+d.  Ken Thompson
 
 ### Answer
 * a, d
@@ -105,10 +105,10 @@ d. Ken Thompson
 ## Question 9
 On which types of systems can Linux be installed? (Choose all that apply.)
 
-a. IoT devices<br>
-b. supercomputers<br>
-c. servers<br>
-d. workstations
+a.  IoT devices<br>
+b.  supercomputers<br>
+c.  servers<br>
+d.  workstations
 
 ### Answer
 * a, b, c, d
@@ -118,10 +118,10 @@ d. workstations
 ## Question 10
 Who formed the Free Software Foundation to promote open development?
 
-a. Dennis Ritchie<br>
-b. Richard Stallman<br>
-c. Linus Torvalds<br>
-d. Ken Thompson
+a.  Dennis Ritchie<br>
+b.  Richard Stallman<br>
+c.  Linus Torvalds<br>
+d.  Ken Thompson
 
 ### Answer
 * b
@@ -130,10 +130,10 @@ d. Ken Thompson
 ## Question 11
 Which culture embraced the term “GNU” (GNU’s Not UNIX) and laid the free software groundwork for Linux?
 
-a. the hacker culture<br>
-b. the BSD culture<br>
-c. the cracker culture<br>
-d. the artificial intelligence culture
+a.  the hacker culture<br>
+b.  the BSD culture<br>
+c.  the cracker culture<br>
+d.  the artificial intelligence culture
 
 ### Answer
 * a
@@ -143,10 +143,10 @@ d. the artificial intelligence culture
 ## Question 12
 Linux was developed by \_\_\_\_\_ to resemble the \_\_\_\_\_ operating system.
 
-a. Linus Torvalds, MINIX<br>
-b. Linus Torvalds, GNU<br>
-c. Richard Stallman, GNU<br>
-d. Richard Stallman, MINIX
+a.  Linus Torvalds, MINIX<br>
+b.  Linus Torvalds, GNU<br>
+c.  Richard Stallman, GNU<br>
+d.  Richard Stallman, MINIX
 
 ### Answer
 * a
@@ -156,10 +156,10 @@ d. Richard Stallman, MINIX
 ## Question 13
 When the core components of the Linux operating system are packaged together with other OSS, it is called a \_\_\_\_\_.
 
-a. new kernel<br>
-b. new platform<br>
-c. Linux distribution<br>
-d. GNU Project
+a.  new kernel<br>
+b.  new platform<br>
+c.  Linux distribution<br>
+d.  GNU Project
 
 ### Answer
 * c
@@ -169,10 +169,10 @@ d. GNU Project
 ## Question 14
 Which common desktop environments are available in most Linux distributions? (Choose all that apply.)
 
-a. GNOME<br>
-b. CDE<br>
-c. KDE<br>
-d. RPM
+a.  GNOME<br>
+b.  CDE<br>
+c.  KDE<br>
+d.  RPM
 
 ### Answer
 * a, c
@@ -182,10 +182,10 @@ d. RPM
 ## Question 15
 Which of the following are factors that determine which Linux distribution a user will use? (Choose all that apply.)
 
-a. package manager support<br>
-b. hardware platform<br>
-c. kernel features<br>
-d. language support
+a.  package manager support<br>
+b.  hardware platform<br>
+c.  kernel features<br>
+d.  language support
 
 ### Answer
 * a, b, c
@@ -194,10 +194,10 @@ d. language support
 ## Question 16
 What is a common open source web server available for Linux?
 
-a. Samba<br>
-b. Apache<br>
-c. Squid<br>
-d. NFS
+a.  Samba<br>
+b.  Apache<br>
+c.  Squid<br>
+d.  NFS
 
 ### Answer
 * b
@@ -207,10 +207,10 @@ d. NFS
 ## Question 17
 Which of the following components is required to run Linux virtual machines?
 
-a. container runtime<br>
-b. desktop environment<br>
-c. hypervisor<br>
-d. orchestration software
+a.  container runtime<br>
+b.  desktop environment<br>
+c.  hypervisor<br>
+d.  orchestration software
 
 ### Answer
 * c
@@ -219,10 +219,10 @@ d. orchestration software
 ## Question 18
 Which of the following Linux distributions is likely to be used by a cybersecurity worker?
 
-a. Fedora<br>
-b. Ubuntu<br>
-c. Kali<br>
-d. Gentoo
+a.  Fedora<br>
+b.  Ubuntu<br>
+c.  Kali<br>
+d.  Gentoo
 
 ### Answer
 * c
@@ -234,10 +234,10 @@ d. Gentoo
 ## Question 19
 When Linux is hosted within a container on a cloud provider, what cloud delivery model is being used?
 
-a. IaaS<br>
-b. PaaS<br>
-c. XaaS<br>
-d. SaaS
+a.  IaaS<br>
+b.  PaaS<br>
+c.  XaaS<br>
+d.  SaaS
 
 ### Answer
 * b
@@ -247,10 +247,10 @@ d. SaaS
 ## Question 20
 What component within a CD workflow creates a new virtual machine or container to host the web app?
 
-a. orchestration server<br>
-b. testing server<br>
-c. code repository server<br>
-d. build automation server
+a.  orchestration server<br>
+b.  testing server<br>
+c.  code repository server<br>
+d.  build automation server
 
 ### Answer
 * d
