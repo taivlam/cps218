@@ -134,9 +134,14 @@ d.  Press the <kbd>Esc</kbd> key.
     * (Commentary, if needed)
 
 ## Question 12
-...
+If `resume` is the name of a file in the home directory off the root of the
+filesystem and your present working directory is `home`, what is the relative
+name for the file named `resume`?
 
-...<br>
+a.  `/home/resume`<br>
+b.  `/resume`<br>
+c.  `resume`<br>
+d.  `\home\resume`
 
 ### Answer
 * ...
