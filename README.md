@@ -1,4 +1,4 @@
-# Classwork for CPS218
+# Classwork for CPS 218
 This is where I save my classwork for CPS218.
 
 ## License
