@@ -12,7 +12,8 @@ b.  False
     * (Commentary, if needed)
 
 ## Question 2
-Which command would a user type on the command line to find out the current directory in the directory tree?
+Which command would a user type on the command line to find out the current
+directory in the directory tree?
 
 a. `pd`<br>
 b. `cd`<br>
@@ -24,9 +25,12 @@ d. `pwd`
     * (Commentary, if needed)
 
 ## Question 3
-...
+Which of the following is an absolute pathname?  (Choose all that apply.)
 
-...<br>
+a. `C:\myfolder\resume`<br>
+b. `resume`<br>
+c. `/home/resume`<br>
+d. `C:home/resume`
 
 ### Answer
 * ...
