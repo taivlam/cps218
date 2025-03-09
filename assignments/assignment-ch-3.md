@@ -49,9 +49,13 @@ d. do nothing in Linux
     * (Commentary, if needed)
 
 ## Question 5
-...
+If a user’s current directory is `/home/mary/project1`, which command could they
+use to move to the `etc` directory directly under the root?
 
-...<br>
+a. `cd ..`<br>
+b. `cd etc`<br>
+c. `cd /etc`<br>
+d. `cd \etc`
 
 ### Answer
 * ...
