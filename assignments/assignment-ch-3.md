@@ -110,18 +110,24 @@ b.  False
     * (Commentary, if needed)
 
 ## Question 10
-...
+Which command searches for and displays any text contents of a binary file?
 
-...<br>
+a.  `text`<br>
+b.  `strings`<br>
+c.  `od`<br>
+d.  `less`
 
 ### Answer
 * ...
     * (Commentary, if needed)
 
 ## Question 11
-...
+How can a user switch from insert mode to command mode when using the vi editor?
 
-...<br>
+a.  Press the <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> keys simultaneously.<br>
+b.  Press the <kbd>Del</kbd> key.<br>
+c.  Type a `:` character.<br>
+d.  Press the <kbd>Esc</kbd> key.
 
 ### Answer
 * ...
