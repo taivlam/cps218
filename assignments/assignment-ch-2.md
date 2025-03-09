@@ -4,10 +4,10 @@ These are the "Review Questions" for Chapter 2.
 ## Question 1
 What is the default shell on most Linux systems called?
 
-a. SH<br>
-b. BSH<br>
-c. CSH<br>
-d. BASH
+a.  SH<br>
+b.  BSH<br>
+c.  CSH<br>
+d.  BASH
 
 ### Answer
 * d
@@ -16,10 +16,10 @@ d. BASH
 ## Question 2
 What equivalent to the `man` command generally provides an easier-to-read description of the queried command and contains links to other related information?
 
-a. `who`<br>
-b. `man help`<br>
-c. `man -descriptive`<br>
-d. `info`
+a.  `who`<br>
+b.  `man help`<br>
+c.  `man -descriptive`<br>
+d.  `info`
 
 ### Answer
 * d
@@ -27,10 +27,10 @@ d. `info`
 ## Question 3
 What command can you use to safely shut down the Linux system immediately?
 
-a. `shutdown -c`<br>
-b. `shutdown -r`<br>
-c. `down`<br>
-d. `halt`
+a.  `shutdown -c`<br>
+b.  `shutdown -r`<br>
+c.  `down`<br>
+d.  `halt`
 
 ### Answer
 * d
@@ -39,10 +39,10 @@ d. `halt`
 ## Question 4
 What command is equivalent to the `man –k <keyword>` command?
 
-a. `find <keyword>`<br>
-b. `man <keyword>`<br>
-c. `apropos <keyword>`<br>
-d. `appaloosa <keyword>`
+a.  `find <keyword>`<br>
+b.  `man <keyword>`<br>
+c.  `apropos <keyword>`<br>
+d.  `appaloosa <keyword>`
 
 ### Answer
 * c
@@ -50,10 +50,10 @@ d. `appaloosa <keyword>`
 ## Question 5
 Which of the following is *not* a piece of information that the Fedora installation program prompts you for?
 >
-a. time zone<br>
-b. installation destination<br>
-c. firewall settings<br>
-d. installation language
+a.  time zone<br>
+b.  installation destination<br>
+c.  firewall settings<br>
+d.  installation language
 
 ### Answer
 * c
@@ -62,8 +62,8 @@ d. installation language
 ## Question 6
 Linux commands entered via the command line are not case sensitive.
 
-a. True<br>
-b. False
+a.  True<br>
+b.  False
 
 ### Answer
 * b
@@ -72,10 +72,10 @@ b. False
 ## Question 7
 Which command blanks the terminal screen, erasing previously displayed output?
 
-a. `erase`<br>
-b. `clean`<br>
-c. `blank`<br>
-d. `clear`
+a.  `erase`<br>
+b.  `clean`<br>
+c.  `blank`<br>
+d.  `clear`
 
 ### Answer
 * d
@@ -84,10 +84,10 @@ d. `clear`
 ## Question 8
 When sitting at a computer running Linux, what key combination do you press to switch to a graphical login screen?
 
-a. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F1</kbd><br>
-b. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F4</kbd><br>
-c. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F2</kbd><br>
-d. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F7</kbd>
+a.  <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F1</kbd><br>
+b.  <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F4</kbd><br>
+c.  <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F2</kbd><br>
+d.  <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F7</kbd>
 
 ### Answer
 * a
@@ -97,8 +97,8 @@ d. <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F7</kbd>
 ## Question 9
 To install Linux within a virtual machine, you can specify the path to an ISO image that contains the Linux installation media within virtualization software without having to first write the ISO image to a DVD or USB flash drive.
 
-a. True<br>
-b. False
+a.  True<br>
+b.  False
 
 ### Answer
 * a
@@ -107,10 +107,10 @@ b. False
 ## Question 10
 After you log in to a terminal, you receive a user interface called a \_\_\_\_\_.
 
-a. GUID<br>
-b. shell<br>
-c. text box<br>
-d. command screen
+a.  GUID<br>
+b.  shell<br>
+c.  text box<br>
+d.  command screen
 
 ### Answer
 * b
@@ -119,8 +119,8 @@ d. command screen
 ## Question 11
 Users enter commands directly to the kernel of the Linux operating system.
 
-a. True<br>
-b. False
+a.  True<br>
+b.  False
 
 ### Answer
 * b
@@ -129,10 +129,10 @@ b. False
 ## Question 12
 How can you protect a metacharacter (such as the `$` character) from shell interpretation?
 
-a. Precede it with a `/`.<br>
-b. Precede it with a `\`.<br>
-c. Precede it with a `$`.<br>
-d. It cannot be done because metacharacters are essential.
+a.  Precede it with a `/`.<br>
+b.  Precede it with a `\`.<br>
+c.  Precede it with a `$`.<br>
+d.  It cannot be done because metacharacters are essential.
 
 ### Answer
 * b
@@ -141,10 +141,10 @@ d. It cannot be done because metacharacters are essential.
 ## Question 13
 You know a Linux command will perform a desired function for you, but you cannot remember the full name of the command. You do remember it will flush a variable from your system. Which command typed at a command prompt displays a list of commands that would likely contain the command you desire?
 
-a. `man –k flush`<br>
-b. `man –k find all`<br>
-c. `man flush`<br>
-d. `man –key flush`
+a.  `man –k flush`<br>
+b.  `man –k find all`<br>
+c.  `man flush`<br>
+d.  `man –key flush`
 
 ### Answer
 * a
@@ -154,10 +154,10 @@ d. `man –key flush`
 ## Question 14
 Which command displays the users who are currently logged in to the Linux system?
 
-a. `finger`<br>
-b. `who`<br>
-c. `id`<br>
-d. `date`
+a.  `finger`<br>
+b.  `who`<br>
+c.  `id`<br>
+d.  `date`
 
 ### Answer
 * b
@@ -166,10 +166,10 @@ d. `date`
 ## Question 15
 Which prompt does the root user receive when logged in to the system?
 
-a. `$`<br>
-b. `@`<br>
-c. `#`<br>
-d. `!`
+a.  `$`<br>
+b.  `@`<br>
+c.  `#`<br>
+d.  `!`
 
 ### Answer
 * c
@@ -178,10 +178,10 @@ d. `!`
 ## Question 16
 Which prompt do regular users receive when logged in to the system?
 
-a. `$`<br>
-b. `@`<br>
-c. `#`<br>
-d. `!`
+a.  `$`<br>
+b.  `@`<br>
+c.  `#`<br>
+d.  `!`
 
 ### Answer
 * a
@@ -190,10 +190,10 @@ d. `!`
 ## Question 17
 Which of the following refers to the third primary partition on the second SAS hard disk drive within Linux?
 
-a. `hdb2`<br>
-b. `sda3`<br>
-c. `hdb3`<br>
-d. `sdb3`
+a.  `hdb2`<br>
+b.  `sda3`<br>
+c.  `hdb3`<br>
+d.  `sdb3`
 
 ### Answer
 * d
@@ -202,10 +202,10 @@ d. `sdb3`
 ## Question 18
 Which three partitions are typically created at minimum during a Fedora Workstation Linux installation on a system with a UEFI BIOS? (Choose three answers.)
 
-a. `/`<br>
-b. `/boot`<br>
-c. `swap`<br>
-d. `/boot/efi`
+a.  `/`<br>
+b.  `/boot`<br>
+c.  `swap`<br>
+d.  `/boot/efi`
 
 ### Answer
 * a, b, d
@@ -214,8 +214,8 @@ d. `/boot/efi`
 ## Question 19
 If you boot your computer from Linux live media, you will be able to use a fully functional Linux system prior to installing Linux on permanent storage.
 
-a. True<br>
-b. False
+a.  True<br>
+b.  False
 
 ### Answer
 * b
@@ -226,10 +226,10 @@ b. False
 ## Question 20
 Which of the following is not an example of virtualization software that can be used to install Linux within another operating system?
 
-a. Oracle VirtualBox<br>
-b. Microsoft Hyper-V<br>
-c. Spiceworks<br>
-d. UTM
+a.  Oracle VirtualBox<br>
+b.  Microsoft Hyper-V<br>
+c.  Spiceworks<br>
+d.  UTM
 
 ### Answer
 * c
