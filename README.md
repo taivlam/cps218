@@ -1,5 +1,5 @@
 # Classwork for CPS 218
-This is where I save my classwork for CPS218.
+This is where I save my classwork for CPS218 in spring 2025.
 
 The textbook we are using is:
 *CompTIA Linux+ and LPIC-1 Guide to Linux Certification*, Sixth Edition by
